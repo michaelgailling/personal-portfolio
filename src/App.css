@@ -1,0 +1,44 @@
+.dark-grey-text{
+    color:#272727
+}
+
+.light-grey-text{
+    color:#747474
+}
+
+.hazard-orange-text{
+    color:#ff652f
+}
+
+.hazard-yellow-text{
+    color:#ffe400
+}
+
+.radioactive-green-text{
+    color:#14a76c
+}
+
+html, body{
+    color: white;
+    background-color: #272727;
+}
+
+h1{
+    color:white;
+}
+
+p{
+    color:white;
+}
+
+.root{
+    background-color: #272727;
+}
+
+.container{
+    background-color: #272727;
+}
+
+.card:hover{
+    box-shadow: 0 0 11px #747474; 
+}
